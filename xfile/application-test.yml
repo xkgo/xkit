@@ -1,0 +1,24 @@
+# 简单kv
+key:
+  child-key: value
+  child-key2: value2
+
+# 数组
+names:
+  - A
+  - B
+  - C
+
+# 数组，行内表示
+names2: ["A","B"]
+
+# 相对复杂的数组
+companies:
+  - id: 1
+    name: company1
+    price: 200W
+  - id: 2
+    name: company2
+    price: 500W
+
+
